@@ -1,0 +1,53 @@
+iframe {
+	border-width: 0px;
+	height: 40px;
+	width: 600px;
+	
+}
+iframe.hidden {
+	visibility: hidden;
+	width:0px;
+	height:0px;
+}
+
+#imgcontainer {
+	position: relative;
+	width: 500px;
+	top: 0px;
+	height: 600px;
+}
+
+#images {
+	position: relative;
+	top: 50px;
+	left: 0px;
+	width: 480px;
+	margin: 20px;
+	height: 300px;
+}
+
+.imgdiv:hover {
+	border-color: #529EBD;
+}
+
+.imgtitle {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    font-face: Verdana;
+    font-size: 10px;
+    font-weight: bold;
+    color: #AAAAAA;
+}
+
+.imgedit {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 27px;
+}
+
+.contdiv {
+    border: 0px solid black;
+}

@@ -1,0 +1,6 @@
+[21-Dec-2009 05:52:44] PHP Warning:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in /home/vaughnp/public_html/c2m/blog/wp-includes/http.php on line 1831
+[21-Dec-2009 05:52:44] not well-formed (invalid token) at line 1, column 0
+[21-Dec-2009 07:11:32] PHP Warning:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in /home/vaughnp/public_html/c2m/blog/wp-includes/http.php on line 1831
+[21-Dec-2009 07:11:32] not well-formed (invalid token) at line 1, column 0
+[21-Dec-2009 12:45:59] PHP Warning:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in /home/vaughnp/public_html/c2m/blog/wp-includes/http.php on line 1831
+[21-Dec-2009 12:45:59] not well-formed (invalid token) at line 1, column 0

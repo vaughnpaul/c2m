@@ -1,0 +1,7 @@
+Version 1.0.1 - 16-Nov-10 
+
+	- fixed shade issue
+	
+Version 1.0.2 - 18-Nov-10
+
+	- fixed the appearance of a white square on loading

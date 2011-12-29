@@ -1,0 +1,94 @@
+﻿<settings>
+  <General_Properties>
+    <width value="450"/>
+    <height value="300"/>
+    <assets value="images.xml"/>
+    <preloader value="assets/preloaders/redsquares.swf"/>
+    <showAbout value="true"/>
+    <controls value="assets/skins/controlsSkin2.xml"/>
+  </General_Properties>
+  <Background_Properties>
+    <backgroundImage value="assets/backgroundImages/wood.jpg"/>
+    <fillType value="solid"/>
+    <backgroundColor1 value="0x006600"/>
+    <backgroundColor2 value="0xff0000"/>
+    <backgroundAlpha value="1"/>
+    <bgCornerRadius value="5"/>
+    <gradientRotation value="30"/>
+    <gradientRatio value="40"/>
+    <gradientPosX value="0"/>
+    <gradientPosY value="0"/>
+  </Background_Properties>
+  <Shade_Properties>
+    <useShade value="false"/>
+    <shadeColor value="0x000000"/>
+    <shadeAlpha value="1"/>
+    <shadeRatio value="40"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+    <useReflection value="true"/>
+  </Shade_Properties>
+  <Image_Properties>
+    <width value="100"/>
+    <height value="115"/>
+    <expandPercent value="150"/>
+    <spacing value="20"/>
+    <useFrame value="true"/>
+    <frameColor value="0xffffff"/>
+    <frameAlpha value="0.7"/>
+    <frameWidth value="2"/>
+    <cornerRadius value="0"/>
+  </Image_Properties>
+  <Reflection_Properties>
+    <distance value="10"/>
+    <alpha value="0.5"/>
+    <spread value="63"/>
+  </Reflection_Properties>
+  <Navigation_Properties>
+    <startIndex value="0"/>
+    <direction value="horizontal"/>
+    <func value="Cubic"/>
+    <method value="easeOut"/>
+    <duration value="0.8"/>
+  </Navigation_Properties>
+  <AutoPlay_Properties>
+    <autoPlay value="true"/>
+    <showPlay value="true"/>
+    <slideShowTime value="1"/>
+    <ifLastPicture value="goToFirst"/>
+    <autoPlayX value="20"/>
+    <autoPlayY value="361"/>
+    <playOverSkin value="assets/buttons/autoPlay/play1Over.png"/>
+    <playOutSkin value="assets/buttons/autoPlay/play1.png"/>
+    <playDownSkin value="assets/buttons/autoPlay/play1.png"/>
+    <pauseOverSkin value="assets/buttons/autoPlay/pause1Over.png"/>
+    <pauseOutSkin value="assets/buttons/autoPlay/pause1.png"/>
+    <pauseDownSkin value="assets/buttons/autoPlay/pause1.png"/>
+  </AutoPlay_Properties>
+  <Text_Properties>
+    <textEffectDelay value="0"/>
+    <bodyTextDelay value="0.71"/>
+    <styleSheet value="assets/css/styleSheet.css"/>
+    <hPos value="left"/>
+    <vPos value="top"/>
+    <bodyDistance value="2"/>
+    <offset value="0"/>
+    <width value="150"/>
+    <headBgColor value="0xffffff"/>
+    <bodyBgColor value="0x000000"/>
+    <bgAlpha value="0.8"/>
+    <borderColor value="0xffffff"/>
+    <borderAlpha value="0.12"/>
+    <borderWidth value="0.3"/>
+    <cornerRadius value="0"/>
+    <paddingLeft value="7"/>
+    <paddingRight value="7"/>
+    <paddingTop value="7"/>
+    <paddingBottom value="7"/>
+    <embedFonts value="true"/>
+  </Text_Properties>
+  <Text_Effects>
+    <textEff value="assets/transitions/slides.xml"/>
+    <randomTextEff value="true"/>
+  </Text_Effects>
+</settings>

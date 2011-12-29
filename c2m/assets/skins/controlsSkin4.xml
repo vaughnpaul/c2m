@@ -1,0 +1,8 @@
+﻿<data>
+	<groups>
+		<group snapToCell="true" gridPosition="CR" cellPosition="CC" orientation="vertical" spacing="20" paddingH="0" paddingV="">
+			<button out="assets/skins/controlSkins/skin4/up.png" over="assets/skins/controlSkins/skin4/upOver.png" down="assets/skins/controlSkins/skin4/upOver.png" action="left" tooltip="" />
+			<button out="assets/skins/controlSkins/skin4/down.png" over="assets/skins/controlSkins/skin4/downOver.png" down="assets/skins/controlSkins/skin4/downOver.png" action="right" tooltip="" />	
+		</group>
+	</groups>
+</data>

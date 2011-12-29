@@ -1,0 +1,41 @@
+﻿<images>
+	<photo image="portfolio/images/rightmatchclothing_thumb.jpg" url = "portfolio/" target="_parent" >
+	<![CDATA[<head>Web design and strategy</head><body>to fit your business</body>]]></photo>
+	
+<!--	<video media="video/three.flv" image="video/three.jpg" skin="assets/skins/videoSkin1.xml" backColor="0xff0000" backAlpha="1" autoplay="true"></video>
+	-->
+	<photo image="portfolio/images/kidsfurniture_thumb.jpg" url = "portfolio/" target="_parent">
+	<![CDATA[<head>E-Commerce solutions</head><br><body>Engage your customers!</body>]]></photo>
+	
+	<photo image="portfolio/images/infinitysolar_full.jpg" url = "portfolio/" target="_parent">
+	<![CDATA[<head>Brochure websites</head><br><body>for a perfect representation of your business</body>]]></photo>
+	
+	<photo image="portfolio/images/Img_full_c2mblog.jpg" url = "portfolio/" target="_parent">
+	<![CDATA[<head>Wordpress Blogs</head><<body>and customizations</body>]]></photo>
+	
+	<photo image="portfolio/images/operafineart.gif" url = "portfolio/" target="_parent">
+	<![CDATA[<head>Display and Banner Ads</head><body>We will do the creative and technical implementation for your advertising campaign</body>]]></photo>
+
+<!--			
+	<photo image="images/46.jpg" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Create your own image transitions and text effects</head><body>or select them from existing lists using transitions and text effects generators</body>]]></photo>
+	
+	<photo image="images/47.jpg" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>You can choose toggle between auto play</head><body>and manual browsing</body>]]></photo>
+	
+	<photo image="images/48.jpg" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>You can put the photos to be horizontal</head><body>or vertical aligned</body>>]]></photo>
+	
+	<photo image="images/49.jpg" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Put your own images and text in the "images" folder</head><body>and update the XML files from the same folder accordingly</body>]]></photo>
+	
+	<photo image="images/50.jpg" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>You can put <a href="http://www.flashxml.net" target="_blank">links</a> in this <bluetext>HTML/CSS formatted text</bluetext></head><body>and you can also put links behind the big images</body>]]></photo>
+	
+	<photo image="images/51.jpg" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Hello</head><body>Welcome to the new Photo Rotator</body>]]></photo>
+	
+	<photo image="images/52.jpg" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Download the new Photo Rotator</head><br><body>For FREE</body>]]></photo>
+	-->
+</images>

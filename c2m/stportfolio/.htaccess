@@ -1,0 +1,10 @@
+RewriteEngine on
+
+Options -Indexes +FollowSymLinks 
+
+# Replace with site url prefix
+RewriteBase /stportfolio/
+
+RewriteRule ^([^/]+)/([^/]+)\.html$ /portfolio/index.php?id=$2&c=$1&read=1	[QSA]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)/$ /portfolio/index.php?cat=$1	[QSA]

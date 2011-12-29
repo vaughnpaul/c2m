@@ -1,0 +1,311 @@
+ULTIMATE FORM MAIL (EVALUATION AND NON-EVALUATION) 
+
+THE SUMMARY (or easy to understand version):
+
+The full license agreement as set out below relating to the evaluation and
+non-evaluation versions of ULTIMATE FORM MAIL will at all times be the legal
+agreement that relates to your use of ULTIMATE FORM MAIL.
+
+In summary, ULTIMATE FORM MAIL is licensed per website,
+based on the website address. You can make limited backups and keep those
+offsite if necessary.
+
+Product support is given via online support tickets, discussion forum, and 
+occasional direct emails. 
+
+The product is likely to change over time, and non-major upgrades may be
+distributed for free. These will generally be features that we wanted to
+include in the very beginning but that time constraints just didn't
+allow. Should the product take on a new direction, then upgrade fees may
+apply. Suggestions are also welcome, and may become incorporated into the
+product.
+
+--End Of Summary--
+
+LICENCE AGREEMENT FOR ULTIMATE FORM MAIL
+(EVALUATION AND NON-EVALUATION) 
+
+YOU SHOULD CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS BEFORE USING THE
+ULTIMATE FORM MAIL SOFTWARE. THE INSTALLATION AND/OR USE OR COPYING OF THE 
+ULTIMATE FORM MAIL SOFTWARE INDICATES YOUR ACCEPTANCE OF THIS LICENCE AGREEMENT.  
+IF YOU DO NOT ACCEPT THE TERMS OF THIS LICENCE AGREEMENT, DO NOT INSTALL, COPY 
+AND/OR USE THE ULTIMATE FORM MAIL SOFTWARE.
+
+DEFINITIONS
+
+The following definitions shall apply in this document:
+
+ULTIMATE FORM MAIL shall mean ULTIMATE FORM MAIL (evaluation and
+non-evaluation version) including any associated documentation or electronic 
+or online materials relating to the software.
+
+PROVIDER shall mean Cash Cow Marketing of St. Augustine, Florida.
+
+BUSINESS ENTITY shall mean any body of users, for example a company or
+organisation, with a single primary business purpose.
+
+USER/YOU shall mean any person or business entity who has purchased
+a licence for the non-evaluation version, or downloaded the free evaluation
+version of ULTIMATE FORM MAIL.
+
+
+1 LICENSE ENTITLEMENT 
+
+1.1 ULTIMATE FORM MAIL is licensed not sold.  Title to ULTIMATE FORM MAIL 
+does NOT pass to the user in any circumstances.  
+
+1.2 The provider grants a personal, non-transferable, non-exclusive licence to
+use ULTIMATE FORM MAIL in accordance with the terms and conditions of this Licence
+Agreement.  (Contact the author regarding specific transfer questions.)
+
+1.3 Downloading of the evaluation ULTIMATE FORM MAIL entitles the user to install
+and use ULTIMATE FORM MAIL for its own internal lawful purposes and in accordance
+with the terms set out in this license agreement on any website owned by user.
+
+1.4 Downloading of the purchased ULTIMATE FORM MAIL entitles the user to install
+and use ULTIMATE FORM MAIL for its own internal lawful purposes and in accordance 
+with the terms set out in this license agreement on websites licensed by
+host address. Additional licenses may be purchased separately 
+as required. Scope of usage is expressly restricted to use by the user. 
+
+1.5 The user is entitled to use ULTIMATE FORM MAIL solely for the purpose of 
+formatting and emailing website form data. 
+
+
+2 DISTRIBUTION 
+
+2.1 ULTIMATE FORM MAIL may not be redistributed to any third party.
+
+2.2 The making of reasonable copies for back-up security purposes is
+permitted, provided all copies made include all copyright and proprietary
+notices of the Provider.
+
+2.3 Keeping reasonable copies of ULTIMATE FORM MAIL is permitted solely for onsite or
+offsite back-up purposes.
+
+2.4 ULTIMATE FORM MAIL may under no circumstances be embedded inside another product,
+nor branded as another product, whether distributed or not. (You may contact the author
+if you wish to discuss co-branding or embedded product distribution.) 
+
+
+3 ANALYSIS / REVERSE ENGINEERING / MODIFICATION 
+
+Except insofar as the user is permitted to do so in accordance with applicable
+law:
+
+3.1 Any analysis of the program, embedded data or license files by any means
+and by any entity whether human or otherwise and including but without
+limitation to discover details of internal operation, to reverse engineer,
+to de-compile programming code, or to modify for the purposes of modifying
+behaviour is forbidden.
+
+
+4 LIMITED WARRANTY
+
+4.1 The functionality of the non-evaluation ULTIMATE FORM MAIL shall be in accordance
+with the documentation or materials supplied for ULTIMATE FORM MAIL for a period of
+30 days from the date ULTIMATE FORM MAIL is put into live use.  The provider does not
+warrant that ULTIMATE FORM MAIL is uninterrupted or error free.  This constitutes the
+only warranty provided by the provider in respect of ULTIMATE FORM MAIL.
+
+4.2 The provider will remedy any non-conformance of ULTIMATE FORM MAIL to the
+documentation during the warranty period by correction or replacement of any
+defects, provided that the user promptly notifies the provider of an error
+occurring during the warranty period.
+
+
+5 LIMITATION OF LIABILITY 
+
+5.1 IN NO EVENT WILL THE PROVIDER OF ULTIMATE FORM MAIL BE LIABLE TO THE USER OR ANY
+PARTY FOR ANY DIRECT, INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL OR OTHER
+CONSEQUENTIAL DAMAGES ARISING DIRECTLY OR INDIRECTLY FROM THIS LICENCE
+AGREEMENT OR ANY USE OF ULTIMATE FORM MAIL OR INSTALLATION PACKAGES, EVEN 
+IF THE PROVIDER IS EXPRESSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5.2 ULTIMATE FORM MAIL IS PROVIDED ON AN "AS IS" BASIS.  THE PROVIDER EXCLUDES ALL
+WARRANTIES, CONDITIONS, TERMS, UNDERTAKINGS AND REPRESENTATIONS (EXCLUDING
+FRAUDULENT MISREPRESENTATION) OF ANY KIND, EXPRESS OR IMPLIED, STATUTORY OR
+OTHERWISE IN CONNECTION WITH ULTIMATE FORM MAIL TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+5.3 DOWNLOADING ULTIMATE FORM MAIL IS AT YOUR OWN RISK AND THE PROVIDER DOES NOT
+ACCEPT LIABILITY FOR ANY DIRECT OR INDIRECT LOSS OR DAMAGE HOWSOEVER CAUSED AS
+A RESULT OF ANY COMPUTER VIRUSES, BUGS, TROJAN HORSES, WORMS, SOFTWARE BOMBS
+OR OTHER SIMILAR PROGRAMS ARISING FROM YOUR USE OF ULTIMATE FORM MAIL.  WHILST THE
+PROVIDER WILL DO ITS BEST TO ENSURE THAT ULTIMATE FORM MAIL IS FREE FROM SUCH
+DESTRUCTIVE PROGRAMS, IT IS YOUR RESPONSIBILITY TO TAKE REASONABLE PRECAUTIONS
+TO SCAN FOR SUCH DESTRUCTIVE PROGRAMS DOWNLOADED FROM THE INTERNET.
+
+5.4 THE PROVIDER'S MAXIMUM LIABILITY FOR ANY LOSS OR DAMAGE ARISING FROM THIS
+LICENCE AGREEMENT SHALL IN ANY EVENT BE LIMITED IN THE SOLE DISCRETION OF THE
+PROVIDER TO THE REPLACEMENT OF ULTIMATE FORM MAIL PRODUCT OR REFUND OF THE PURCHASE 
+PRICE PAID BY THE USER IN RESPECT OF ANY SINGLE DEFAULT OR SERIES OF DEFAULTS
+ARISING FROM THE SAME CAUSE.
+
+5.5 DUE TO THE NATURE OF THE INTERNET, THE PROVIDER CANNOT GUARANTEE THAT ANY
+E-MAILS OR OTHER ELECTRONIC TRANSMISSIONS WILL BE SENT TO YOU OR RECEIVED BY
+THE PROVIDER OR THAT THE CONTENT OF SUCH TRANSMISSIONS WILL BE SECURE DURING
+TRANSMISSION.
+
+
+6 BUG FIXING AND PRODUCT SUPPORT 
+
+6.1 The provider will use reasonable endeavours to provide support to users
+who have an existing licence for the non-evaluation version of ULTIMATE FORM MAIL.
+The provider will only provide support for the latest release and for up to
+two prior versions of ULTIMATE FORM MAIL. Product support for the evaluation version
+will be given during the 10-day evaluation period.
+
+6.2 Support comprises of fault reporting via support ticket and fault diagnosis,
+recommendations on correction and where reasonably possible correction between
+9am to 5pm (US Eastern time) Monday to Friday except US statutory and public
+holidays. Support may additionally be available during extended hours outside
+of this period.
+
+6.3 The user accepts that on occasion the ability of the provider to meet
+anticipated or published support schedules may be impaired due to, but without
+limitation, Internet service provider failures or software failures that
+affect the ability to communicate for an indeterminate period.
+
+6.4 The provider reserves the right to refuse to provide support at any time.
+
+6.5 The provider wishes to maintain and offer a product of the highest
+possible quality, and accordingly may from time to time and at its discretion
+make product changes for the purpose of correcting behaviour in variance to
+the published specification or the user's reasonable expectations. Such
+changes will generally be made and distributed without charge.
+
+
+7 PRODUCT UPGRADES
+
+7.1 The provider may at his discretion release without further charge product
+upgrades that change and/or enhance the features and/or existing behaviour of
+ULTIMATE FORM MAIL.
+
+7.2 Substantial product changes may be offered to existing users for an
+additional fee. At the discretion of the provider, this may be at a discounted
+rate and accordingly be less than the difference between original and current
+purchase prices.
+
+
+8 PRODUCT PRICE
+
+8.1 The price of the product may increase or decrease at the provider's
+discretion with or without notice. Existing purchasers will not be liable for
+additional costs should the product price increase, nor be due any refund if
+the price decreases.
+
+8.2 All prices are exclusive of VAT and all other taxes and duties. 
+
+8.3 All prices are in US dollars unless otherwise indicated.
+
+
+9 ERRORS AND OMISSIONS
+
+Whilst reasonable endeavours are made to ensure the accuracy of documentation
+concerning the details of ULTIMATE FORM MAIL, the user accepts the possibility of
+inaccuracies in information presented in any format, including email
+communications and online services. The provider shall under no circumstances
+be liable for any events that arise as a result of unintentional inaccuracies
+or omissions.
+
+
+10 USER INDEMNITY
+
+You agree to fully indemnify, defend and hold the provider harmless
+immediately upon demand from and against all actions, liability, claims,
+losses, damages, costs and expenses (including legal/attorney fees) incurred
+by the provider arising directly or indirectly as a result of your breach of
+this Licence Agreement.
+
+
+11 INTELLECTUAL PROPERTY RIGHTS
+
+11.1 The user acknowledges that ULTIMATE FORM MAIL and associated documentation and
+materials contain proprietary information of the provider and are and shall
+remain the exclusive property of the provider and/or its licensors and all
+title, copyright, trade marks, trade names, patents and other intellectual
+property rights therein of whatever nature shall remain the sole property of
+the provider and/or its licensors.
+
+11.2 No title to or rights of ownership, copyright or other intellectual
+property in ULTIMATE FORM MAIL is transferred to the user (other than the licence
+rights expressly granted in this Licence Agreement).
+
+
+12 TERMINATION
+
+12.1 The licence for the evaluation version of ULTIMATE FORM MAIL will terminate 10
+days after the date of downloading. Installers produced by the evaluation Package
+Foundry will expire at the same time as ULTIMATE FORM MAIL evaluation.
+
+12.2 The provider reserves the right to terminate this Licence Agreement
+immediately by notice in writing against the user if the user is in breach of
+any terms and conditions of this Licence Agreement.
+
+12.3 Termination of this Licence Agreement for any reason shall be without
+prejudice to any other rights or remedies of the provider which may have
+arisen on or before the date of termination under this Licence Agreement or in
+law.
+
+12.4 The provisions of the following clauses shall survive any termination of
+this agreement; clause 3, 5, 11 and 15.
+
+
+13 GENERAL
+
+13.1 The provider reserves the right to transfer or assign all or any of its
+rights and duties and responsibilities set out in this Licence Agreement to
+another party.
+
+13.2 Headings have been included for convenience only and will not be used in
+construing any provision of this Licence Agreement.
+
+13.3 No delay or failure by the provider to exercise any powers, rights or
+remedies under this Licence Agreement will operate as a waiver of them nor
+will any single or partial exercise of any such powers, rights or remedies
+include any other or further exercise of them.
+
+13.4 If any part of this Licence Agreement is found by a court of competent
+jurisdiction or other competent authority to be invalid, unlawful or
+unenforceable then such part shall be severed from the remainder of this
+Licence Agreement which will continue to be valid and enforceable to the
+fullest extent permitted by applicable law.
+
+13.5 This Licence Agreement including the documents or other sources referred
+to herein supersede all prior representations, understandings and agreements
+between the user and the provider relating to ULTIMATE FORM MAIL and sets forth the
+entire agreement and understanding between the user and the provider relating
+to ULTIMATE FORM MAIL.
+
+13.6 Nothing in this Licence Agreement shall be deemed to constitute a
+partnership between you and the provider nor constitute either party being an
+agent of the other party.
+
+13.7 This Agreement does not create any rights or benefits enforceable by any
+person not a party to it except that a person who under clause 13.1 is a
+permitted successor or assignee of the rights or benefits of the provider may
+enforce such rights or benefits.
+
+
+14 PRIVACY STATEMENT
+
+Installers created by Cash Cow Marketing trasmit no personal information to the installer 
+creator or Cash Cow Marketing. If an installation fails to be completed successfully,
+the installer user may optionally send a problem report file for support
+purposes. The contents of the report may be viewed before transmission.
+The user may optionally provide contact details to accompany the report.
+
+ 
+15 GOVERNING LAW AND JURISDICTION
+
+This License Agreement and any issues relating thereto shall be construed and
+interpreted in accordance with the laws of the United States of America and the 
+State of Florida. 
+
+
+Copyright (c) 2006 Cash Cow Marketing Ltd.                  
+Last revised Jan 15, 2006
+
+
+
+

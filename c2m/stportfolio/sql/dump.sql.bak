@@ -1,0 +1,229 @@
+-- phpMyAdmin SQL Dump
+-- version 2.6.0-pl3
+-- http://www.phpmyadmin.net
+-- 
+-- Хост: localhost
+-- Время создания: Май 06 2006 г., 22:08
+-- Версия сервера: 4.1.10
+-- Версия PHP: 5.1.2
+-- 
+-- БД: `port`
+-- 
+
+-- --------------------------------------------------------
+
+-- 
+-- Структура таблицы `cat_po`
+-- 
+
+DROP TABLE IF EXISTS `cat_po`;
+CREATE TABLE `cat_po` (
+  `c_id` int(11) NOT NULL auto_increment,
+  `port_id` int(11) NOT NULL default '0',
+  `cat_id` int(11) NOT NULL default '0',
+  `port_order` int(11) NOT NULL default '0',
+  PRIMARY KEY  (`c_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=17 ;
+
+-- 
+-- Дамп данных таблицы `cat_po`
+-- 
+
+INSERT INTO `cat_po` VALUES (1, 1, 1, 1);
+INSERT INTO `cat_po` VALUES (13, 10, 1, 13);
+INSERT INTO `cat_po` VALUES (3, 3, 1, 2);
+INSERT INTO `cat_po` VALUES (4, 4, 1, 1);
+INSERT INTO `cat_po` VALUES (5, 4, 2, 2);
+INSERT INTO `cat_po` VALUES (6, 5, 1, 5);
+INSERT INTO `cat_po` VALUES (7, 6, 1, 3);
+INSERT INTO `cat_po` VALUES (8, 7, 1, 4);
+INSERT INTO `cat_po` VALUES (16, 2, 2, 16);
+INSERT INTO `cat_po` VALUES (14, 11, 1, 6);
+
+-- --------------------------------------------------------
+
+-- 
+-- Структура таблицы `cat_port`
+-- 
+
+DROP TABLE IF EXISTS `cat_port`;
+CREATE TABLE `cat_port` (
+  `ID` int(11) NOT NULL auto_increment,
+  `NAME` varchar(75) NOT NULL default '',
+  `cat_order` smallint(11) NOT NULL default '0',
+  `cat_desc` text NOT NULL,
+  `cat_sef_name` varchar(255) NOT NULL default '',
+  PRIMARY KEY  (`ID`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=5 ;
+
+-- 
+-- Дамп данных таблицы `cat_port`
+-- 
+
+INSERT INTO `cat_port` VALUES (1, 'asdfsda', 1, 'fsdfsdaf', 'asdfsda');
+INSERT INTO `cat_port` VALUES (2, 'wtretsa', 2, 'fasfsdafsad', 'wtretsa');
+INSERT INTO `cat_port` VALUES (3, 'sdfsdf', 3, 'sdfsf', 'sdfsdf');
+
+-- --------------------------------------------------------
+
+-- 
+-- Структура таблицы `details`
+-- 
+
+DROP TABLE IF EXISTS `details`;
+CREATE TABLE `details` (
+  `det_id` int(11) NOT NULL auto_increment,
+  `det_name` varchar(75) NOT NULL default '',
+  `det_desc` text NOT NULL,
+  PRIMARY KEY  (`det_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+
+-- 
+-- Дамп данных таблицы `details`
+-- 
+
+INSERT INTO `details` VALUES (1, 'default', '<table width="100%" border="0" align="center"><tr><td colspan="2" rowspan="4" align="left" valign="top">{image} </td>      <td width="893" valign="top">{title}        <div align="left"></div></td>    </tr>    <tr>      <td valign="top" >{description}     ...</td>    </tr>    <tr>      <td><div align="left">{website}</div></td>    </tr> <tr>      <td>{back_link}</td>    </tr> </table>');
+INSERT INTO `details` VALUES (2, 'detail', 'detail');
+
+-- --------------------------------------------------------
+
+-- 
+-- Структура таблицы `images_port`
+-- 
+
+DROP TABLE IF EXISTS `images_port`;
+CREATE TABLE `images_port` (
+  `id` int(8) NOT NULL auto_increment,
+  `port_id` int(8) NOT NULL default '0',
+  `title` varchar(255) NOT NULL default '',
+  `img_large` varchar(255) NOT NULL default '',
+  `img_thumb` varchar(255) NOT NULL default '',
+  `_order` int(4) NOT NULL default '0',
+  PRIMARY KEY  (`id`),
+  KEY `port_id` (`port_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=8 ;
+
+-- 
+-- Дамп данных таблицы `images_port`
+-- 
+
+INSERT INTO `images_port` VALUES (1, 11, 'snorkel.jpg', 'images/1-snorkel.jpg', 'images/1-thumb-snorkel.jpg', 1);
+INSERT INTO `images_port` VALUES (3, 2, 'Home Page', 'images/3-blue hills.jpg', 'images/3-thumb-blue hills.jpg', 1);
+INSERT INTO `images_port` VALUES (4, 2, 'Shopping Cart', 'images/4-sunset.jpg', 'images/4-thumb-sunset.jpg', 2);
+INSERT INTO `images_port` VALUES (7, 11, 'seattle.jpg', 'images/7-seattle.jpg', 'images/7-thumb-seattle.jpg', 2);
+
+-- --------------------------------------------------------
+
+-- 
+-- Структура таблицы `portfolio`
+-- 
+
+DROP TABLE IF EXISTS `portfolio`;
+CREATE TABLE `portfolio` (
+  `ID` int(11) NOT NULL auto_increment,
+  `NAME` varchar(75) NOT NULL default '',
+  `IMAGE` varchar(75) NOT NULL default '',
+  `DESCRIPTION` text NOT NULL,
+  `CAT` int(11) NOT NULL default '0',
+  `LENGTH` int(11) NOT NULL default '0',
+  `WEBSITE` varchar(120) NOT NULL default '',
+  `SHOWORDER` int(11) NOT NULL default '10',
+  `SEF_NAME` varchar(255) NOT NULL default '',
+  PRIMARY KEY  (`ID`),
+  KEY `SHOWORDER` (`SHOWORDER`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=14 ;
+
+-- 
+-- Дамп данных таблицы `portfolio`
+-- 
+
+INSERT INTO `portfolio` VALUES (2, 'test by jason', '2', 'gdsfgdsfgsdf', 0, 100, 'http://', 2, 'test-by-jason-1');
+INSERT INTO `portfolio` VALUES (3, 'dsfgsdfg', 'http://localhost/port/images/port_3.', 'sdfgsdfgdfsgsd', 0, 100, 'http://', 3, 'dsfgsdfg');
+INSERT INTO `portfolio` VALUES (4, 'sdfsadfasdf', 'http://localhost/port/images/port_4.', 'sadfasdfsdfaf', 0, 100, 'http://', 4, 'sdfsadfasdf');
+INSERT INTO `portfolio` VALUES (5, '111111f', 'http://localhost/port/images/port_5.', '11111111', 0, 100, 'http://', 5, '111111f');
+INSERT INTO `portfolio` VALUES (6, 'asfsdf', 'http://localhost/port/images/port_6.', 'safsdfsdf', 0, 100, 'http://', 6, 'asfsdf');
+INSERT INTO `portfolio` VALUES (7, 'sdfsda', 'http://localhost/port/images/port_7.gif', 'asfsdf', 0, 100, 'http://', 7, 'sdfsda');
+INSERT INTO `portfolio` VALUES (13, '', '13', '', 0, 0, '', 13, '-1');
+INSERT INTO `portfolio` VALUES (12, '', '12', '', 0, 0, '', 12, '');
+INSERT INTO `portfolio` VALUES (11, '4444444', '11', '4444444444', 0, 100, 'http://', 11, '4444444');
+
+-- --------------------------------------------------------
+
+-- 
+-- Структура таблицы `settings`
+-- 
+
+DROP TABLE IF EXISTS `settings`;
+CREATE TABLE `settings` (
+  `settings_id` int(11) NOT NULL auto_increment,
+  `set_readme` varchar(75) NOT NULL default 'read_me.gif',
+  `set_lclass` varchar(75) NOT NULL default '',
+  `set_tclass` varchar(75) NOT NULL default '',
+  `set_hclass` varchar(75) NOT NULL default '',
+  `set_htext` varchar(75) NOT NULL default '',
+  `set_hcolor` varchar(75) NOT NULL default '',
+  `set_hsize` varchar(75) NOT NULL default '',
+  `set_align` varchar(10) NOT NULL default '',
+  `set_temp_id` int(11) NOT NULL default '0',
+  `set_cat` tinyint(4) NOT NULL default '1',
+  `set_det_id` int(11) NOT NULL default '0',
+  `resize_width` int(4) NOT NULL default '0',
+  `resize_height` int(4) NOT NULL default '0',
+  `inclusion_script` varchar(255) NOT NULL default '',
+  PRIMARY KEY  (`settings_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
+
+-- 
+-- Дамп данных таблицы `settings`
+-- 
+
+INSERT INTO `settings` VALUES (1, 'http://localhost/port//images/read_me.gif', '111', '', '345', 'Verdana, Arial, Helvetica, sans-serif', '#006600', 'smaller', 'left', 1, 1, 1, 104, 102, '');
+
+-- --------------------------------------------------------
+
+-- 
+-- Структура таблицы `templates`
+-- 
+
+DROP TABLE IF EXISTS `templates`;
+CREATE TABLE `templates` (
+  `temp_id` int(11) NOT NULL auto_increment,
+  `temp_name` varchar(75) NOT NULL default '',
+  `temp_desc` text NOT NULL,
+  PRIMARY KEY  (`temp_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+-- 
+-- Дамп данных таблицы `templates`
+-- 
+
+INSERT INTO `templates` VALUES (1, 'default', '<table width="100%" border="0" align="center"><tr><td colspan="2" rowspan="3" align="left" valign="top">{image} </td>      <td width="893" valign="top">{title}        <div align="left"></div></td>    </tr>    <tr>      <td valign="top" >{description}     ...</td>    </tr>    <tr>      <td><div align="left">{readmore}</div></td>    </tr>  </table>');
+INSERT INTO `templates` VALUES (2, 'template1', '<table width="100%" border="0" align="center"><tr><td width="852" valign="top">{title}        <div align="left"></div></td>  <td width="96" rowspan="3" valign="top">{image}</td></tr>    <tr>      <td valign="top" >{description}     ...</td>    </tr>    <tr>      <td><div align="left">{readmore}</div></td>      </tr>  </table>');
+INSERT INTO `templates` VALUES (3, 'listing', 'listing');
+
+-- --------------------------------------------------------
+
+-- 
+-- Структура таблицы `variables`
+-- 
+
+DROP TABLE IF EXISTS `variables`;
+CREATE TABLE `variables` (
+  `id` int(8) NOT NULL auto_increment,
+  `name` varchar(255) NOT NULL default '',
+  `description` text NOT NULL,
+  `type` varchar(50) NOT NULL default '',
+  `text_text` text NOT NULL,
+  `image` varchar(255) NOT NULL default '',
+  `image_alt` varchar(255) NOT NULL default '',
+  `link_title` varchar(255) NOT NULL default '',
+  `link_url` varchar(255) NOT NULL default '',
+  `link_target` varchar(20) NOT NULL default '',
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+
+-- 
+-- Дамп данных таблицы `variables`
+-- 
+
+INSERT INTO `variables` VALUES (1, 'test', 'tste', 'link', '', '', '', 'testst', 'stsdfgs', '_blank');
