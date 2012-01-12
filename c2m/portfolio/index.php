@@ -318,7 +318,7 @@ function mon(){var url = 'https://oggchat.icoa.com/mon?act=c094a3a22ba214c1012ba
 					<p>
 					A landscape architectural firm based in Chestnut Ridge, NJ needed a website that reflected the high end quality of their landscape projects
 					</p>
-					<a href="http://biospherelandscapedesign.com" class="gotosite" target="_blank">Go to site</a>
+					<a href="http://biospherela.com" class="gotosite" target="_blank">Go to site</a>
 					<a href="images/biosphere.jpg" class="viewfull" target="_blank">View full size image</a>
 					</div>
 					<a id="close-panel" href="#">X</a>
