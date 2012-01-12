@@ -309,9 +309,9 @@ function mon(){var url = 'https://oggchat.icoa.com/mon?act=c094a3a22ba214c1012ba
 	<ul id="portfolio">
 	
 	<li class="blog-cms small-business home-improvement">
-		<a rel="xprod" href="#" title="biospherelandscapedesign.com"><img src="images/biosphere-thumbnail.jpg" alt="biospherelandscapedesign.com" height="115" width="200" />Biosphere Landscape Design</a>
+		<a rel="xprod" href="#" title="biospherela .com"><img src="images/biosphere-thumbnail.jpg" alt="biospherela.com" height="115" width="200" />Biosphere Landscape Design</a>
 		<div id="lightpanel" class="fade">
-				    <img src="images/biosphere.jpg" alt="biospherelandscapedesign.com"/>
+				    <img src="images/biosphere.jpg" alt="biospherela.com"/>
 					 
 					<div id="desc">
 					<h1>Biosphere Landscape Design</h1>
@@ -634,7 +634,7 @@ function mon(){var url = 'https://oggchat.icoa.com/mon?act=c094a3a22ba214c1012ba
        <li class="">
 		<a rel="xprod" href="#" title="Skittles"><img src="images/skittles.jpg" alt="Skittles" height="115" width="200" />Skittles</a>
 		<div id="lightpanel" class="fade">
-				    <img src="http://motyar.com/placeholder/800-1000-00FFFF-969696" alt="Skittles"/>
+				    <img src="images/skittles_full.jpg" alt="Skittles"/>
 					 
 					<div id="desc">
 					<h1>Skittles</h1>
@@ -642,7 +642,7 @@ function mon(){var url = 'https://oggchat.icoa.com/mon?act=c094a3a22ba214c1012ba
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 					</p>
 					<a href="http://www.skittles.com/" class="gotosite" target="_blank">Go to site</a>
-					<a href="images/" class="viewfull" target="_blank">View full size image</a>
+					<a href="images/skittles_full.jpg" class="viewfull" target="_blank">View full size image</a>
 					</div>
 					<a id="close-panel" href="#">X</a>
         </div>
@@ -655,7 +655,7 @@ function mon(){var url = 'https://oggchat.icoa.com/mon?act=c094a3a22ba214c1012ba
 <li class="">
 		<a rel="xprod" href="#" title="Starburst"><img src="images/starburst.jpg" alt="Starburst" height="115" width="200" />Starburst</a>
 		<div id="lightpanel" class="fade">
-				    <img src="http://motyar.com/placeholder/800-1000-00FFFF-969696" alt="Starburst"/>
+				    <img src="images/starburst_full.jpg" alt="Starburst"/>
 					 
 					<div id="desc">
 					<h1>Starburst</h1>
@@ -663,7 +663,7 @@ function mon(){var url = 'https://oggchat.icoa.com/mon?act=c094a3a22ba214c1012ba
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 					</p>
 					<a href="http://www.starburst.com/" class="gotosite" target="_blank">Go to site</a>
-					<a href="images/" class="viewfull" target="_blank">View full size image</a>
+					<a href="images/starburst_full.jpg" class="viewfull" target="_blank">View full size image</a>
 					</div>
 					<a id="close-panel" href="#">X</a>
         </div>
@@ -697,7 +697,7 @@ function mon(){var url = 'https://oggchat.icoa.com/mon?act=c094a3a22ba214c1012ba
 <li class="">
 		<a rel="xprod" href="#" title="M&M's"><img src="images/mms.jpg" alt="" height="115" width="200" />M&amp;M's</a>
 		<div id="lightpanel" class="fade">
-				    <img src="http://motyar.com/placeholder/800-1000-00FFFF-969696" alt="M&M's"/>
+				    <img src="images/mm_full.jpg" alt="M&M's"/>
 					 
 					<div id="desc">
 					<h1>M&amp;M's</h1>
@@ -705,7 +705,7 @@ function mon(){var url = 'https://oggchat.icoa.com/mon?act=c094a3a22ba214c1012ba
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 					</p>
 					<a href="http://www.mms.com" class="gotosite" target="_blank">Go to site</a>
-					<a href="images/" class="viewfull" target="_blank">View full size image</a>
+					<a href="images/mm_full.jpg" class="viewfull" target="_blank">View full size image</a>
 					</div>
 					<a id="close-panel" href="#">X</a>
         </div>
@@ -715,22 +715,7 @@ function mon(){var url = 'https://oggchat.icoa.com/mon?act=c094a3a22ba214c1012ba
 
 
 
-<li class="">
-		<a rel="xprod" href="#" title="VaughnPaul.org"><img src="images/vaughnpaulorg.gif" alt="" height="115" width="200" />VaughnPaul.org</a>
-		<div id="lightpanel" class="fade">
-				    <img src="http://motyar.com/placeholder/800-1000-00FFFF-969696" alt="VaughnPaul.org"/>
-					 
-					<div id="desc">
-					<h1>VaughnPaul.org</h1>
-					<p>
-					Site was designed using CSS rather than html tables 
-					</p>
-					<a href="http://www.vaughnpaul.org/" class="gotosite" target="_blank">Go to site</a>
-					<a href="images/" class="viewfull" target="_blank">View full size image</a>
-					</div>
-					<a id="close-panel" href="#">X</a>
-        </div>
-		</li>
+
 
 
 
