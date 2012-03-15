@@ -86,7 +86,7 @@
                                           <div class="inner">
                                             <div class="wrapper">
                                               <div class="col-1">
-                                                <h1 class="title1">Website Maintenance</h1>
+                                                <h3 class="title1">C2M Interactive Website Maintenance Plans</h3>
 												
 												<p>
 													We provide professional website maintenance, web page maintenance, website management, e-commerce website maintenance and website analytics reviews.  We love serving our local North Jersey business community, but we can service any customer worldwide
@@ -95,17 +95,17 @@
 												<p>Your website maintenance plan can be used for many purposes.  Here are some examples: </p> 
                   <div class="wrapper">
                     	<ul class="float-l" style="margin-left:17%;">
-                            <li><a href="#">Advice and consultation</a></li>
-                            <li><a href="#">Creative direction</a></li>
-                            <li><a href="#">Graphic design</a></li>
+                            <li>Advice and consultation</li>
+                            <li>Creative direction</li>
+                            <li>Graphic design</li>
 
-                            <li><a href="#">Content updates</a></li>
+                            <li>Content updates</li>
                         </ul>
                         <ul class="float-r" style="margin-right:18%;">
-                            <li><a href="#">Malesuada atnequeivamus</a></li>
-                            <li><a href="#">Eget nibhtiam cursuseovel</a></li>
-                            <li><a href="#">Nulla facilisieneane</a></li>
-                            <li><a href="#">Vestibulum ante ipsumrimis</a></li>
+                            <li>Image  manipulation</li>
+                            <li>Content development</li>
+                            <li>Domain and hosting support</li>
+                            <li>Google analytics review</li>
 
                   </ul>
                  </div>  
@@ -335,7 +335,13 @@
 
 	
 	 </tbody></table>
-												<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+                                                                                                <br /><br />
+ <center>                                                                                                
+<p><a href="/solutions/website-maintenance-benefits.php">Click here to find out more about the benefits of our maintenance plans</a> </p>
+<?php include '../includes/contact-callout.php';?></center>
+                                                                                                
+                                                                                                <br /><br /><br /><br /><br />
                                               </div>
                                             </div>
                                           </div>
@@ -346,6 +352,7 @@
                         </div>
                     </div>
                 </div>
+                        
 				<div class="row-2">                
                     <img alt="" src='../images/box3-bot.jpg' />
                 </div>

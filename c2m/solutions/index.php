@@ -82,6 +82,10 @@ var WRInitTime=(new Date()).getTime();
 	});
 	</script>										<div id="accordian">				
                                                         <div class="wrapper">
+                                                            <h5>Website Maintenance</h5>
+                                                            <p>We offer a holistic approach to website maintenance.  In this section you  will find indications of <a href="/solutions/when-websites-need-boost.php">how to know your website needs updating</a>; various  <a href="/solutions/website-maintenance-strategies.php">website maintenance strategies</a>;  <a href="/solutions/website-maintenance-plans.php">details of our various website maintenance service plans</a>, and the <a href="/solutions/website-maintenance-benefits.php">benefits of our approach.</a> </p>
+                                                        </div>
+            <div class="wrapper">
                                                             <h5>Professional Web Design</h5>
 															<p>Your website should reflect an appropriate image of your business.  It should be attractive, and more. </p>
                                                         </div>
