@@ -1,0 +1,40 @@
+.chart-header-bg {
+    color:#fff;
+	background-color: #1784b1;
+    font-size:15px;
+	padding: 10px;
+}
+.chart-header-bg2 {
+    color:#fff;
+    font-size:15px;
+	padding: 10px;
+	text-align:left;
+}
+.chart-light-bg {
+	background-color:#f9f9f9;
+	padding: 4px;
+	border:1px solid #fff;
+}
+.chart-dark-bg {
+	background-color:#f0f0f0;
+	padding: 4px;
+	border:1px solid #fff;
+}
+
+
+
+table.packages {width:100%;}
+table.packages, table.packages tr, table.packages td, table.packages th {border-style:solid;border-width:1px;border-color:#fff;border-collapse:collapse;}
+table.packages td, table.packages th {padding:5px;text-align:center;}
+table.packages td.aleft {text-align:left; background:#f0f0f0; padding-left: 18px;}
+table.packages td.chart-header-bg2 {text-align:left;}
+table.packages h3 {color:#3082FF;text-align:left}
+td.aleft i {color:#444;font-style:normal;}
+td.aleft b {color:#444;}
+td.aleft i.ttip {cursor:pointer;background:url(../images/help.png) no-repeat;background-position:center left;}
+table.packages th {}
+table.packages th a {}
+table.packages th span {font-weight:normal;}
+.aToolTip {background:#e3dfd5;border:2px solid #333;padding:10px 10px 0 10px;display:none;color:#000;text-align:left;width:280px;font-family:Verdana, Geneva, sans-serif; font-size:11px;}
+.check2 {background:url(../images/check.png) no-repeat;background-position:50%;}
+.more-info-rollover {font-size:12px; font-style:italic;}

@@ -1,0 +1,206 @@
+
+#nav {
+	width: 953px;
+	height: 54px;
+	margin: 5px 0px 0px 0px;
+	background: url(../images/style1/nav_l.png) no-repeat left top;
+	z-index: 5000;
+	font-size: 14px;
+	position: relative;
+	z-index: 100;
+}
+
+#nav ul {
+	background: url(../images/style1/nav_r.png) no-repeat right center;
+}
+
+#nav ul,#nav ul li {
+	list-style: none;
+	float: left;
+}
+
+#nav ul {
+	margin: 0px 0px 0px 7px;
+	padding: 0px 0px 6px 4px;
+}
+
+#nav ul li {
+	margin: 0px 8px 0px 0px;
+	position: relative;
+}
+
+#nav a,#nav li span.separator,#nav li span.haschild,#nav li.haschild.active span.haschild {
+	padding: 0px 4px 0px 7px;
+	color: #fff;
+	text-shadow: #58675e 1px 1px 2px;
+	line-height: 48px;
+	max-height: 48px;
+}
+
+#nav ul li a:hover,#nav ul li:hover a {
+	color: #d3e1bd;
+}
+
+#nav .menu ul {
+	position: absolute;
+	top: -999em;
+}
+
+#nav ul.menu li {
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+	font-weight: bold;
+}
+
+#nav .menu li:hover {
+	visibility: inherit;
+/* fixes IE7 sticky bug */
+}
+
+#nav .menu li {
+	float: left;
+	position: relative;
+}
+#nav li span.separator,#nav li span.haschild,
+#nav .menu li a {
+	margin-right: 3px;
+}
+#nav li span.separator,#nav li span.haschild,#nav .menu a {
+	display: block;
+	position: relative;
+}
+
+#nav .menu li:hover ul,
+#nav .menu li.sfHover ul {
+	left: 0;
+	top: 48px;
+	width: 180px;
+	background: url(../images/style1/menu_footer.png) no-repeat center bottom;
+	padding-bottom: 5px;
+}
+
+#nav .menu li li:hover ul,
+#nav .menu li li.sfHover ul {
+	background-image: none;
+	padding-bottom: 0px;
+}
+
+#nav ul.menu li:hover li ul,
+#nav ul.menu li.sfHover li ul {
+	top: -999em;
+}
+
+#nav ul.menu li li:hover ul,
+#nav ul.menu li li.sfHover ul {
+	left: 180px;
+
+/* match ul width */
+	top: 0;
+}
+#nav ul.menu li li {
+	padding: 0;
+}
+#nav ul.menu li li a {
+	padding: 7px 0px 7px 10px;
+	line-height: 14px;
+}
+
+#nav ul.menu li li:hover li ul,
+#nav ul.menu li li.sfHover li ul {
+	top: -999em;
+}
+
+#nav ul.menu li li li:hover ul,
+#nav ul.menu li li li.sfHover ul {
+	left: 180px;
+
+/* match ul width */
+	top: 0;
+}
+
+#nav .menu {
+	float: left;
+	margin-bottom: 1em;
+	width: 100%;
+}
+
+#nav .menu a {
+	text-decoration: none;
+}
+
+#nav .menu li li a,
+#nav .menu li li a:visited {
+/* visited pseudo selector so IE6 applies text colour*/
+	color: #fff;
+	text-shadow: none;
+	font-size: 12px;
+	font-weight: normal;
+	border-bottom: 0px solid #4d4d4d;
+}
+
+#nav ul.menu ul {
+	background-image: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav .menu li li {
+	line-height: 14px;
+	width: 180px;
+	background: url(../images/style1/menu_bg_trans.png) repeat;
+}
+
+.menu li li li {
+	background: #516156;
+}
+
+#nav span.separator:hover,#nav li span.haschild:hover,
+#nav .menu li li:hover, #nav .menu li li.sfHover,
+#nav .menu li li a:focus, #nav .menu li li a:hover, #nav .menu li li a:active {
+	background: #516156;
+	outline: 0;
+	color: #fff;
+}
+
+/* Top Menu */
+
+#topmenu {
+	font-family: "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	width: 100%;
+	background-image: url(../images/style1/navbg_top.png);
+	height: 37px;
+}
+
+#topmenu .wrap {
+	border-left: 1px solid #444444;
+	height: 32px;
+}
+
+#topmenu ul,#topmenu li {
+	float: left;
+	list-style: none;
+	line-height: 32px;
+	margin: 0;
+	padding: 0;
+}
+
+#topmenu ul {
+	
+}
+
+#topmenu li a {
+	padding: 0px 10px 0px 10px;
+	border-right: 1px solid #444444;
+	line-height: 32px;
+	height: 32px;
+	display: block;
+	color: #fff;
+}
+
+#topmenu li a:hover {
+	color: #99a99c;
+	background-color: #000;
+	text-decoration: none;
+}
